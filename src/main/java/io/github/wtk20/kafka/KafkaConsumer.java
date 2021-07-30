@@ -1,4 +1,4 @@
-package com.wtk20.kafka;
+package io.github.wtk20.kafka;
 
 import java.time.Duration;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 
 /**
- * @author nhannv
+ * @author wtk20
  */
 public class KafkaConsumer {
 

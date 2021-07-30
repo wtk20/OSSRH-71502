@@ -1,10 +1,10 @@
-package com.wtk20.log;
+package io.github.wtk20.log;
 
-import com.wtk20.kafka.KafkaConfig;
-import com.wtk20.kafka.KafkaProducer;
+import io.github.wtk20.kafka.KafkaConfig;
+import io.github.wtk20.kafka.KafkaProducer;
 
 /**
- * @author nhannv
+ * @author wtk20
  */
 public enum KafkaLog {
 

@@ -1,7 +1,7 @@
-package com.wtk20.kafka;
+package io.github.wtk20.kafka;
 
 /**
- * @author nhannv
+ * @author wtk20
  */
 public class KafkaConfig {
 

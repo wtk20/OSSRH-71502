@@ -1,4 +1,4 @@
-package com.wtk20.kafka;
+package io.github.wtk20.kafka;
 
 import java.util.Properties;
 
@@ -9,7 +9,7 @@ import org.apache.kafka.common.serialization.LongSerializer;
 import org.apache.kafka.common.serialization.StringSerializer;
 
 /**
- * @author nhannv
+ * @author wtk20
  */
 public class KafkaProducer {
 
